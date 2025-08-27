@@ -121,7 +121,6 @@
 ### **환경설정** <br>
 ![Git](https://img.shields.io/badge/🐙_Git-F05032?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logoColor=white)
 ![Vite](https://img.shields.io/badge/⚡_Vite-646CFF?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/📗_Node.js-339933?style=for-the-badge&logoColor=white)
 ![npm](https://img.shields.io/badge/📦_npm-CB3837?style=for-the-badge&logoColor=white)
